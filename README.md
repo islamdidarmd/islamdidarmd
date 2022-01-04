@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Android, Flutter, Kotlin**
 
-- 📫 How to reach me **islamdidarmd@gmail.com**
+- 📫 Can reach me at **islamdidarmd@gmail.com**
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=islamdidarmd&label=Profile%20views&color=0e75b6&style=flat" alt="islamdidarmd" /> </p> -->
 
