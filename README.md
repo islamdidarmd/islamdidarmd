@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md. Didarul Islam</h1>
-<h3 align="center">Android App Developer from Bangladesh</h3>
+<h3 align="center">Mobile Application Developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Android, Flutter, Kotlin**
+- 💬 Ask me about **Flutter, Dart, Android, Kotlin**
 
 - 📫 Can reach me at **islamdidarmd@gmail.com**
 
