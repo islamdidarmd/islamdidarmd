@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Didarul Islam</h1>
 <h3 align="center">Mobile Application Developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently Developing Apps with **Flutter**
 
 - 💬 Ask me about **Flutter, Dart, Android, Kotlin**
 
