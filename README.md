@@ -20,6 +20,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islamdidarmd&" alt="islamdidarmd" /></p>
 
+[![@islamdidarmd's Holopin board](https://holopin.me/islamdidarmd)](https://holopin.io/@islamdidarmd)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/islamdidarmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="islamdidarmd" height="30" width="40" /></a>
