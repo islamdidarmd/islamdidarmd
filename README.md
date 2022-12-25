@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Md. Didarul Islam</h1>
-<h3 align="center">Mobile Application Developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Md Didarul</h1>
+<h3 align="center">Mobile Application Developer</h3>
 
 - 🌱 I’m currently Developing Apps with **Flutter**
 
