@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there! I'm Md Didarul</h1>
 
-- 🌱 I’m currently building stuffs with **Flutter 💙**
+- 🌱 Currently workng with **Flutter 💙**
 - 💬 Ask me about **Flutter 💙**
 - 📫 You can reach me at:
     - Email: **islamdidarmd@gmail.com**
