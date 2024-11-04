@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hi there! I'm Md Didarul</h1>
+<h1 align="center">👋 Hi there! I'm Didarul</h1>
 
-- 🌱 Currently working with **Flutter 💙**
-- 💬 Ask me about **Flutter 💙**
+- 🌱 Currently building stuff with **Flutter 💙**
+- 💬 Ask me about **Flutter 💙** and **Android**
 - 📫 You can reach me at:
     - Email: **islamdidarmd@gmail.com**
     - LinkedIn: [islamdidarmd](https://linkedin.com/in/islamdidarmd)
-    - Twitter: [islamdidarmd](https://twitter.com/islamdidarmd)
+    - X: [islamdidarmd](https://x.com/islamdidarmd)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=islamdidarmd&show_icons=true&locale=en&layout=compact" alt="islamdidarmd" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=islamdidarmd&show_icons=true&locale=en" alt="islamdidarmd" /></p>
